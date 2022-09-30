@@ -1,2 +1,2 @@
 # OXLS
-a Language School
+a Language School REST API
